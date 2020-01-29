@@ -1,0 +1,6 @@
+width = int(input())
+height = int(input())
+perimeter = 2*(width + height)
+area = width + height
+print ('The rectangle has a perimeter of' , perimeter, 'and an area of' , area)
+
